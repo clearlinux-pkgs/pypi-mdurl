@@ -1,5 +1,5 @@
 PKG_NAME := pypi-mdurl
-URL = https://files.pythonhosted.org/packages/36/c5/00f7f9e5b53dcf44f8806201e69016b64ade1075f38ab5d4e8f5ab4b5bfb/mdurl-0.1.0.tar.gz
+URL = https://files.pythonhosted.org/packages/d1/ff/2f02e94382daee347ca6cfd33fde421e891398d83c51d05f25941f7f93e9/mdurl-0.1.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
